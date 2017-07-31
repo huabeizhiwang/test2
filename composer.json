@@ -1,9 +1,7 @@
 {
     "name": "huabeizhiwang/test2",
     "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
+    "require": {},
     "license": "MIT",
     "authors": [
         {
