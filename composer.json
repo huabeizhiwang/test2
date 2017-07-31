@@ -1,0 +1,15 @@
+{
+    "name": "huabeizhiwang/test2",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lijiapeng",
+            "email": "you@example.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
